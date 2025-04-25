@@ -1,0 +1,2 @@
+
+const [empData, setEmpData] = useState([]);
