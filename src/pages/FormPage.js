@@ -1,4 +1,5 @@
-import Form from "../Modules/Form.js"
+
+import Form from "../Components/Modules/Form.js"
 function FormPage(){
   return (
     <>
